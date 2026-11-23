@@ -1,0 +1,6 @@
+﻿Código;Ferramenta;Categoria;Número de patrimônio;Localização no almoxarifado;Responsável pela guarda;Data da entrega;Prevista de devolução;Data da devolução;Status;Condição na saída;Condição na volta;Observação
+FER-0001;Torquímetro de estalo 40 a 200 Nm;Medição;PAT-18420;Gaveta M-02;Almoxarifado;12/11/2026;; ;No almoxarifado;Operante;;Exemplo de cadastro. Substitua pelos seus itens.
+FER-0002;Furadeira angular pneumática;Elétrica e pneumática;PAT-18421;Painel E-01;Equipe de manutenção;10/11/2026;12/11/2026;;Emprestada;Operante;;Exigir devolução no fim do turno.
+FER-0003;Paquímetro digital 150 mm;Medição;PAT-18422;Gaveta M-01;Metrologia;02/11/2026;09/11/2026;09/11/2026;Devolvida;Operante;Operante;Conferir calibração antes de novo empréstimo.
+FER-0004;Disco de corte 7 pol (jogo);Consumível de ferramenta;PAT-18423;Prateleira C-04;Almoxarifado;12/11/2026;; ;No almoxarifado;Novo;;Controlar quantidade do jogo, não só a gaveta.
+FER-0005;Alicate amperímetro;Elétrica;PAT-18424;Painel E-03;Elétrica;05/11/2026;20/11/2026;;Em manutenção;Com defeito;;Não emprestar até o retorno da oficina.
