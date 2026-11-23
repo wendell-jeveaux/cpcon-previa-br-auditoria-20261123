@@ -1,3 +1,5 @@
 # Prévia estática (noindex)
 
-Prévia do MR !200 do novo-site-brasil (GitLab). Não é produção.
+Prévia estática noindex do MR !200 (novo-site-brasil).
+
+Não é produção. robots.txt bloqueia tudo e cada página tem noindex.
